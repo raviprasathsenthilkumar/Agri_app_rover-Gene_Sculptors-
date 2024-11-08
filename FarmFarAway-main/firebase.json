@@ -1,0 +1,1 @@
+{"flutter":{"platforms":{"android":{"default":{"projectId":"rfidsample-c13cc","appId":"1:27647146706:android:f3538a46071ac76a7bcb0b","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"rfidsample-c13cc","configurations":{"android":"1:27647146706:android:f3538a46071ac76a7bcb0b","web":"1:27647146706:web:ac733c97e87f73597bcb0b"}}}}}}

@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "27647146706",
+    "firebase_url": "https://rfidsample-c13cc-default-rtdb.firebaseio.com",
+    "project_id": "rfidsample-c13cc",
+    "storage_bucket": "rfidsample-c13cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27647146706:android:f7e3d3c7b70b92997bcb0b",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlQhPYoebrZkWt4G3YVSjTA8hQHWIEnbM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27647146706:android:f3538a46071ac76a7bcb0b",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlQhPYoebrZkWt4G3YVSjTA8hQHWIEnbM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
